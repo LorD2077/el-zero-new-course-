@@ -1,4 +1,6 @@
 body {
+  overflow:hidden;
+  flex-flow: column ;
   color: red;
   background-color: #123;
 }
